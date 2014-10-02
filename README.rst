@@ -144,19 +144,33 @@ The method will print the following:
 
 
     education(list)
+
     ........school
+
     .................id
+
     .................name
+
     ........type
+
     ........year
+
     ...............id
+
     ...............name
+
     friends
+
     ........paging
+
     ...............next
+
     ........data(list)
+
     ...............name
+
     ...............id
+
     id
 
 
